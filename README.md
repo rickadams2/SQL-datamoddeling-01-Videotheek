@@ -1,26 +1,25 @@
 De database van Videoland is verwijderd via een verkeerde query. Alleen de onderstaande notitie van de data requirements is aanwezig in 0NF.
-
  1. **Zet de 0NF om in de 1NF** 
-	- 1.1 Schets + scan/foto 
-	-  1.2.  Conceptual modal
-	- 1.3  ERD 
-	
+	 - 1.1.  Conceptual modal 
+	 - 1.2 Logical and	 
+	 - 1.3  Physical Data
+
 2. **Zet 1NF om in 2NF** 
-	 - 2.1 Conceptual modal
-	 - ERD
-	 - 2.2. Fysiek model
-	 - ERD 
+	 2.1  Conceptual modal 
+	 - 2.2 Logical and	 
+	 - 2.3  Physical Data	  
+	 - 2.4 ERD 
 	 
 3. **Zet 2NF om in 3NF** 
 	 - 3.1  Conceptual modal 
-	 - 3.2. Fysiek model
-	 - 3.3 ERD 
+	 - 3.2 Logical and	 
+	 - 3.3  Physical Data	  
+	 - 3.4 ERD 
 
 4. **Schrijf de DDL en de DML voor de 3NF**
 	4.1  	DDL 
 	4.2 DML met 10 rijen aan dummy data   
 	4.3 ERD 
-
 
 |  |  |
 |--|--|
